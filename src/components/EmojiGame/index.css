@@ -1,0 +1,24 @@
+/* Write your code here. */
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.emojis-container {
+  width: 100%;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  /* margin: 0px; */
+  /* padding: 0px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.ul-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 70%;
+  padding: 20px;
+}

@@ -1,0 +1,16 @@
+/* Write your code here. */
+.result-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgb(211, 211, 211);
+}
+.text-display-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.won-img {
+  width: 30%;
+}

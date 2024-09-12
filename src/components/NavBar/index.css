@@ -1,0 +1,34 @@
+/* Write your code here. */
+.navbar {
+  background-color: #9796f0;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 120px;
+  padding-right: 120px;
+}
+.emoji-logo {
+  /* width: 22%; */
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  width: 30%;
+}
+.logo-name {
+  font-size: 18px;
+  font-weight: 700;
+  width: 150px;
+  color: #ffffff;
+}
+.nav-score-container {
+  color: #ffffff;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+.score {
+  margin-right: 15px;
+}
